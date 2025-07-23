@@ -2,13 +2,19 @@
 
 <!-- 👋 Typing Header Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+%40codewithharsh007;Full+Stack+Developer+%7C+Crafting+Scalable+Web+Solutions;MERN+Stack+Enthusiast;Turning+Ideas+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  Full Stack Developer | Crafting Scalable Web Solutions  
+  <br />
+  MERN Stack Enthusiast · Turning Ideas into Code
+</p>
+
 
 <!-- 🖼️ Banner Placeholder -->
 <p align="center">
-  <!-- Add your custom banner below -->
-  <!-- <img src="your-banner-url-here" alt="Profile Banner" /> -->
+  <img src="your-banner-url-here" alt="Profile Banner" />
 </p>
 
 <!-- 👁️ Visitor Counter -->
