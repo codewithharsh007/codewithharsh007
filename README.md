@@ -14,7 +14,7 @@
 
 <!-- 🖼️ Banner Placeholder -->
 <p align="center">
-  <img src="your-banner-url-here" alt="Profile Banner" />
+<!--   <img src="your-banner-url-here" alt="Profile Banner" /> -->
 </p>
 
 <!-- 👁️ Visitor Counter -->
