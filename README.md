@@ -30,7 +30,7 @@
 - 🛠️ MERN Stack | REST APIs | Clean UI/UX with Tailwind CSS  
 - 🧠 Always learning & building cool digital stuff  
 - 🌐 Currently working on advanced resume-builder templates  
-- 📫 Reach me at: **codewithharshdev@gmail.com**
+- 📫 Reach me at: **codewithharsh007@gmail.com**
 
 ---
 
@@ -56,6 +56,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="47%" />
 </div>
 
+<!--
+
 ---
 
 ### 🐍 GitHub Contribution Snake
@@ -63,3 +65,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+-->
