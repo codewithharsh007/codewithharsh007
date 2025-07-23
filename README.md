@@ -56,10 +56,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="47%" />
 </div>
 
-<!--
 
 ---
 
+<!--
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
