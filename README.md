@@ -14,7 +14,7 @@
 
 <!-- 🖼️ Banner Placeholder -->
 <p align="center">
-  <img src="image/github-banner.png" alt="Profile Banner" /> 
+  <img src="image/github-banner2.png" alt="Profile Banner" /> 
 </p>
 
 <!-- 👁️ Visitor Counter -->
