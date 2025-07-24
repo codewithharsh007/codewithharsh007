@@ -43,17 +43,18 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,vite,vercel,netlify,gsap,git,github,figma,java,python,c,cpp,gcp,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,vite,vercel,netlify,gsap,git,github,figma,gcp,mysql" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=default&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="47%" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=default&hide_border=true" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="400" height="200" />
 </div>
+
 
 ---
 
