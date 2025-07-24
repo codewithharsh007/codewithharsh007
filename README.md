@@ -52,10 +52,22 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=default&hide_border=true" width="400" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="400" height="220" />
+### 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" width="400" height="200" />
+  </picture>
+  
+  <br/>
+
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=blueberry&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=blueberry&hide_border=true" width="400" height="200" />
+  </picture>
 </div>
+
 
 
 ---
@@ -63,5 +75,5 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&bg_color=ffffff&color=6C63FF&line=6C63FF&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&line=9BCF53&point=9BCF53&area_color=9BCF53&color=9BCF53" alt="Contribution Graph" />
 </p>
