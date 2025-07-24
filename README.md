@@ -42,9 +42,11 @@
 
 ### 🛠️ Tech Stack
 
+<!-- 🛠️ Tech Stack -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,vite,vercel,netlify,gsap,git,github,figma,gcp,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,vite,vercel,netlify,git,github,figma,gcp,mysql" />
 </div>
+
 
 ---
 
@@ -52,7 +54,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=default&hide_border=true" width="400" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="400" height="220" />
 </div>
 
 
