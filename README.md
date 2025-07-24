@@ -35,7 +35,7 @@
 
 ### 🔗 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-codewithharsh007-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/codewithharsh007)  
+[![Discord](https://img.shields.io/badge/Discord-codewithharsh007-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/codewithharsh007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithharsh007/)
 
 ---
@@ -43,31 +43,22 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,vite,java,python,c,cpp,git,github,figma,sql,vercel,netlify,gcp,gsap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,vite,vercel,netlify,gsap,git,github,figma,java,python,c,cpp,gcp,mysql" />
 </div>
-
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=codewithharsh007&theme=default&hide_border=true#gh-light-mode-only" width="47%" />
-  
-  <!-- Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=codewithharsh007&theme=radical&hide_border=true#gh-dark-mode-only" width="47%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=default&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=default&hide_border=true" width="47%" />
+</div>
 
 ---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <!-- Light Mode -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&theme=light&area=true&hide_border=true#gh-light-mode-only" />
-  <!-- Dark Mode -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&theme=react-dark&area=true&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&bg_color=ffffff&color=6C63FF&line=6C63FF&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
