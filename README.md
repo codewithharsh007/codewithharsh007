@@ -53,7 +53,7 @@
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" width="400" height="190" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=blueberry&hide_border=true" width="400" height="200" />
 </div>
 
