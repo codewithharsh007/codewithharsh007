@@ -36,7 +36,8 @@
 ### 🔗 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-codewithharsh007-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/harsh_0072_82060)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-goyal-01bbb9271/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshgoyal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-goyal-01bbb9271/)
+
 
 
 ---
