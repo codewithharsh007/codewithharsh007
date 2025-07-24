@@ -14,7 +14,7 @@
 
 <!-- 🖼️ Banner Placeholder -->
 <p align="center">
-<!--   <img src="your-banner-url-here" alt="Profile Banner" /> -->
+  <img src="image/github-banner.png" alt="Profile Banner" /> 
 </p>
 
 <!-- 👁️ Visitor Counter -->
@@ -59,10 +59,8 @@
 
 ---
 
-<!--
-### 🐍 GitHub Contribution Snake
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&bg_color=ffffff&color=6C63FF&line=6C63FF&point=403d3d&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
--->
