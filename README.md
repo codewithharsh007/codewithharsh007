@@ -1,70 +1,107 @@
 <!-- GitHub Profile README for codewithharsh007 -->
 
 <!-- 👋 Typing Header Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Harsh;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Available+for+Freelance+🚀" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  Full Stack Developer | Crafting Scalable Web Solutions  
-  <br />
-  MERN Stack Enthusiast · Turning Ideas into Code
+  Full-Stack Developer from Delhi 🇮🇳 · Building scalable web apps with MERN + Next.js
 </p>
 
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="image/github-banner2.png" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/main/image/github-banner.png" alt="Harsh - Full Stack Developer" width="100%" />
 </p>
 
 <!-- 👁️ Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithharsh007&label=Visitors&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithharsh007&label=Profile+Views&style=for-the-badge&color=6C63FF" alt="Visitor Count" />
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🚀 Full Stack Developer | Crafting Scalable Web Solutions  
-- 🛠️ MERN Stack | REST APIs | Clean UI/UX with Tailwind CSS  
-- 🧠 Always learning & building cool digital stuff  
-- 🌐 Currently working on advanced resume-builder templates  
-- 📫 Reach me at: **codewithharsh007@gmail.com**
+- 🔭 Currently building **[codewithharsh.in](https://codewithharsh.in)** — my developer portfolio
+- 💼 **Available for freelance** — Full-Stack web development
+- 🌱 Sharpening skills in **TypeScript**, **System Design** & **Advanced Next.js**
+- 📍 Based in **Delhi, India**
+- 📫 Reach me at **codewithharsh007@gmail.com**
+- ⚡ Fun fact: _"Code is poetry written for machines to execute and humans to read"_
 
 ---
 
 ### 🔗 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-codewithharsh007-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/harsh_0072_82060)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-goyal-01bbb9271/)
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-codewithharsh.in-8B4513?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewithharsh.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithharsh--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithharsh-dev/)
+[![Discord](https://img.shields.io/badge/Discord-codewithharsh007-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/harsh_0072_82060)
+[![Gmail](https://img.shields.io/badge/Gmail-codewithharsh007-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithharsh007@gmail.com)
 
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<!-- 🛠️ Tech Stack -->
+**Languages**
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,vite,vercel,netlify,git,github,figma,gcp,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" />
 </div>
 
+**Frontend**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,framermotion" />
+</div>
+
+**Backend & Database**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</div>
+
+**Tools & Platforms**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vite,gcp" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" width="400" height="190" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithharsh007&theme=blueberry&hide_border=true" width="400" height="200" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithharsh007&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithharsh007&theme=tokyonight&hide_border=true" height="180" />
+</div>
 
 ---
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&line=9BCF53&point=9BCF53&area_color=9BCF53&color=9BCF53" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&theme=react-dark&area=true&hide_border=true&color=6C63FF&line=6C63FF&point=6C63FF" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithharsh007&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ Star my repos if you find them useful!</i>
+</div>
