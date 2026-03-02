@@ -147,7 +147,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&theme=react-dark&area=true&hide_border=true&color=6C63FF&line=6C63FF&point=6C63FF" />
 </div>
 
----
+<!-- --- -->
 
 <!-- ### 🏆 GitHub Trophies
 
