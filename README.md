@@ -11,7 +11,7 @@
 
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/main/image/github-banner2.png" alt="Harsh - Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/main/image/github-banner.png" alt="Harsh - Full Stack Developer" width="100%" />
 </p>
 
 <!-- 👁️ Visitor Counter -->
@@ -97,21 +97,6 @@
       <p><strong>Stack:</strong> Next.js · MongoDB · Razorpay · Tailwind CSS</p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 VaaniAI Chatbot</h3>
-      <p align="center">
-        <a href="https://codewithharsh.in" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/codewithharsh007" target="_blank">
-          <img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Conversational AI platform with authentication, user management, and multi-session chat history.</p>
-      <p><strong>Stack:</strong> Next.js · OpenAI API · MongoDB · NextAuth</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">🌐 Portfolio — codewithharsh.in</h3>
       <p align="center">
         <a href="https://codewithharsh.in" target="_blank">
@@ -124,9 +109,6 @@
       <p>Personal developer portfolio with vintage design theme, 3D animations, and OG image optimization.</p>
       <p><strong>Stack:</strong> Next.js · Three.js · Framer Motion · Tailwind CSS</p>
     </td>
-    <td width="50%">
-      <!-- Add a 4th project here anytime -->
-    </td>
   </tr>
 </table>
 
@@ -135,12 +117,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharsh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithharsh007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithharsh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithharsh007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithharsh007&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=codewithharsh007&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 ---
@@ -156,7 +138,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithharsh007&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithharsh007&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
