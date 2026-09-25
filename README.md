@@ -144,7 +144,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/output/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" width="100%" />
 </div>
 
 ---
