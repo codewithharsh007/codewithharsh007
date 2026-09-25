@@ -23,7 +23,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **[codewithharsh.in](https://codewithharsh.in)** — my developer portfolio
+- 🌐 Check out my portfolio — **[codewithharsh.in](https://codewithharsh.in)** (live now!)
 - 💼 **Available for freelance** — Full-Stack web development
 - 🌱 Sharpening skills in **TypeScript**, **System Design** & **Advanced Next.js**
 - 📍 Based in **Delhi, India**
@@ -129,14 +129,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithharsh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithharsh007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithharsh007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues&rank_icon=github" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithharsh007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=codewithharsh007&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=codewithharsh007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165" />
 </div>
 
 ---
@@ -144,19 +144,13 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharsh007&theme=react-dark&area=true&hide_border=true&color=6C63FF&line=6C63FF&point=6C63FF" />
+  <img src="https://raw.githubusercontent.com/codewithharsh007/codewithharsh007/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
-
-<!-- --- -->
-
-<!-- ### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithharsh007&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
-</div> -->
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="Footer" width="100%" />
+  <br/>
   <i>⭐ Star my repos if you find them useful!</i>
 </div>
